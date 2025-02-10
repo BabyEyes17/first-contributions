@@ -997,6 +997,7 @@
 - [Eiheir](https://github.com/ebininin)
 - [Maria Carrera](https://github.com/MarieCourse)
 - [Joaquin D](https://github.com/Joaco273)
+- [Jayden Lewis](https://github.com/BabyEyes17)   UwU
 - [Aditya Mitra](https://github.com/mitras-git)
 - [Anthony Ladon](https://github.com/AnthonyLadon)
 - [EbertonKM](https://github.com/EbertonKM)
